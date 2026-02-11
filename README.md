@@ -94,7 +94,7 @@ algorithm-feb
 | **6일차 (월)** | 파티가 좋아 파티가 좋아 | 골드 V | https://www.acmicpc.net/problem/4055 |
 | **7일차 (화)** | 좋은수열 | 골드 IV | https://www.acmicpc.net/problem/2661 |
 | **8일차 (수)** | 키 순서 | 골드 IV | https://www.acmicpc.net/problem/2458 |
-| **9일차 (목)** | 문제명 4 | D4 | https://www.acmicpc.net/problem/문제번호 |
+| **9일차 (목)** | 주사위 윷놀이 | 골드 II | https://www.acmicpc.net/problem/17825 |
 | **10일차 (금)** | 문제명 5 | D4 | https://www.acmicpc.net/problem/문제번호 |
 | **스터디** | 벚꽃 내리는 시대에 결투를 | 골드 I | https://www.acmicpc.net/problem/27163 |
 
